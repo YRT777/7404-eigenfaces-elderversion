@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+__MACOSX
+
+# VSCode
+__pycache__
+.vscode
+
+# JetBrains
+.idea
+
+# Jupyter
+.ipynb_checkpoints
+
+lfw_home
+lfw-funneled.tgz
