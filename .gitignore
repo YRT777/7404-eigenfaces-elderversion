@@ -14,3 +14,5 @@ __pycache__
 
 lfw_home
 lfw-funneled.tgz
+eigval.npy
+eigvec.npy
