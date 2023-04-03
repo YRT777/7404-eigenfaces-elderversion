@@ -11,10 +11,9 @@ conference on computer vision and pattern recognition. IEEE Computer Society, 19
 
 Dataset: [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
 
-Report link: [Overleaf](https://www.overleaf.com/1772296625kqfbqmhkhmrz)
+Report link: [`report.tex` - Overleaf](https://www.overleaf.com/1772296625kqfbqmhkhmrz)
 
-Presentation slide link: [One Drive - connect.hku.hk](https://connecthkuhk-my.sharepoint.com/:p:/g/personal/link_connect_hku_hk/EcGJ6IfnkkZOgBpf5NdlG4oBusqCjE5u9AEPWy1xXHGS3g?e=iHQCNJ)
-
+Presentation slide link: [`slide.tex` - Overleaf](https://www.overleaf.com/1772296625kqfbqmhkhmrz)
 
 ## Contribution
 
