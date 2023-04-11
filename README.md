@@ -23,4 +23,4 @@ Presentation slide link: [`slide.tex` - Overleaf](https://www.overleaf.com/17722
 
 3. YU Rentao: Code (5-7)
 
-
+4. This is the version which dont use convariance matrix tricks, follow https://github.com/HeroLink/comp7404c-eigenfaces.git to get updated
